@@ -1,0 +1,218 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200&display=swap');
+body{
+    margin:0;
+   
+}
+#first{
+    background-image: url("./imagesdiwans/diwans-durbar-kakkanad-kochi.jpg");
+    
+width: 100%;
+height: 900px;
+background-size: cover;
+color:whitesmoke ;
+position: relative;
+
+
+
+}
+#titlebar{
+    width: 1537px;
+    height: 141px;
+    position: fixed;
+    background-color: black;
+    
+}
+
+.c{
+    float: left;
+    margin-left: 100px;
+    
+
+}
+.c1{
+    width: 300px;
+    min-height: 100px;
+    
+
+}
+#but1{
+    margin-top: 14px;
+    width: 100px;
+    height: 36px;
+    background-color: rgb(245, 116, 116);
+color: white;
+}
+#but1:hover{
+    background-color: red;
+}
+#word1{
+    width: 25%;
+    height: 100px;
+    color: white;
+    position: absolute;
+    margin-left: 279px;
+    margin-top:291px ;
+    font-size: larger;
+    font-family: 'Oswald', sans-serif;
+}
+#img1{
+    width: 15%;
+     height: 250px;
+    position: absolute;
+    margin-top: 250px;
+    margin-left: 750px;
+}
+#img2{
+    width: 15%;
+     height: 250px;
+    position: absolute;
+    margin-top: 150px;
+    margin-left: 950px;
+}
+#paragraph{
+    background-color: #eceff3;
+}
+#paragraph{
+    display: flex;
+    background-color: rgb(223, 232, 235);
+}
+.d{
+    padding: 13px 0;
+    padding-left: 20px;
+    padding-right: 50px;
+    padding-top: 50px;
+}
+h3{
+    color:  red;
+}
+#app{
+    width: 100%;
+    height: 850px;
+     text-align: center;
+    color: black;
+    font-size: x-large;
+    position: relative;
+    padding-top: 20px;
+    
+    
+}
+.ap{
+    
+    width: 220px;
+    height:500px ;
+padding-top: 30px;
+    position: absolute;
+   
+}
+.ap1{
+    left: 145px;
+}
+.ap2{
+    left: 405px;
+
+}
+.ap3{
+    left: 662px;
+    
+}
+.ap4{
+    left: 925px;
+    
+}
+.ap5{
+    left: 1185px;
+    
+}
+.appimg{
+    width: 250px;
+    height: 500px;
+    transition: .5s ease-in;
+}
+.appimg:hover{
+    transform: scale(1.1);
+}
+#googleplay{
+    width: 100%;
+    height: 220px;
+    background-color:#B84442;
+    display: flex;
+}
+.rating{
+    
+   justify-content: space-evenly; 
+    width: 50%;
+   text-align: center;
+
+}
+.right{
+    left:500px
+}
+button{
+    width: 30px;
+    height: 40px;
+    background-color: aliceblue;
+    border-radius: 200px;
+    
+}
+button:hover{
+    background-color: red;
+}
+#form{
+    width: 100%;
+    height: 600px;
+    background-color: #16171a;
+    
+}
+    
+    .fo1{
+        padding-top: 20px;
+        width: 50%;
+        height: 100px;
+    color: white;
+    margin-left: 30px;
+    
+    
+
+}
+.fo2{
+    width: 50%;
+    height: 200px;
+    color: white;
+    position: absolute;
+    left:675px;
+    font-size: x-large;
+    
+}
+#bb{
+    width: 100px;
+    height: 50px;
+    margin-left: 85px;
+    margin-top: 50px;
+    background-color: #B84442;
+    color: white;
+    
+}
+#u5{
+    width: 500px;
+    height: 100px;
+}
+#bb:hover{
+    background-color: red;
+}
+#footer{
+    width: 100%;
+    height: 50px;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+
+
+
+
+
+
